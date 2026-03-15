@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ret{
+    background-color:rgb(240,168,208);
+}
+.get img {
+    width: 100px;
+    height: 100px;
+}
+body{
+    color: rgb(0, 183, 255);
+}
+.queen ol {
+padding-left: 30px;
+list-style: none;
+display:flex;
+}
+.ret{
+    display:flex;
+}
+.queen ol li{
+    padding-left: 60px;
+}
+.queen ol li  {
+color: hsl(197, 100%, 50%);
+user-select: none;
+text-decoration: none;
+font-size: 30px;
+}
+.tyl{
+    background-image: url(../img/vegan-oreo-cake-11.jpg);
+    font-size: 100px;
+}
+.tyl h2{
+    font-size: 65px;
+}
+  .queen li a {
+    text-decoration: none; 
+   color: hsl(197, 100%, 50%);
+}
+ .wed ol li  a {
+    text-decoration: none;
+    color:hsl(197, 100%, 50%);
+    background-color: rgb(204, 26, 109);
+    border-radius: 25px;
+}
